@@ -1,6 +1,6 @@
 # python-vendingmachine
 ## python project
-discovery semester data structure and algorithm team project
+data structure and algorithm team project
 
 ## 자료구조 Hash에 대한 이해
 
